@@ -1,0 +1,6 @@
+# Dependencies
+node_modules/
+
+# Log files
+npm-debug.log
+yarn-error.log
